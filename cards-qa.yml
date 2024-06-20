@@ -1,0 +1,5 @@
+build:
+  version: "3.0"
+
+message:
+  message1: "I am coming from QA from the cards"

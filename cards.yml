@@ -1,0 +1,13 @@
+accounts:
+  message: "Hello gopi how are you"
+  contact:
+    number1: "73374XXXX"
+    number2: "9908XXXX"
+  address:
+    street: "abc"
+    state:  "123"
+message:
+  message1: "I am from default cards"
+
+build:
+  version: "9.0"

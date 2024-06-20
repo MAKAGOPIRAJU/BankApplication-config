@@ -1,0 +1,6 @@
+build:
+  version: "9.0"
+
+
+message:
+  message1: "I am from the prod server from the accounts"
