@@ -10,4 +10,4 @@ message:
   message1: "I am from default accounts"
 
 build:
-  version: "Hi i am mister default"
+  version: "Hi i am mister default changed"
