@@ -1,5 +1,5 @@
 build:
-  version: "Yes i am in QA and this output is after the runtime execution modification for rabbitmq changes 20"
+  version: "Yes i am in QA and this output is after the runtime execution modification for webhook changes 20"
 
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
